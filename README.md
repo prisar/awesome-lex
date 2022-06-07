@@ -12,3 +12,9 @@ lex fridman reads quotes
 
 ##### August Wilson
 >Confront the dark parts of yourself, and work to banish them with illumination and forgiveness. Your willingness to wrestle with your demons will cause your angels to sing. [#288](https://youtu.be/iZjby1LkTWQ?t=15272)
+
+##### Kurt Vonnegut
+>Laughter and tears are both responses to frustration and exhaustion. I myself prefer to laugh, since there is less cleaning do to do afterward.[#287](https://youtu.be/tOTenjh_8hw?t=5923)
+
+##### Oliver Stone
+>To fail is not tragic. To be human, is.[#286](https://youtu.be/ygAqYC8JOQI?t=6736)
