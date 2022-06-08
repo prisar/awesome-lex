@@ -21,3 +21,6 @@ lex fridman reads quotes
 
 ##### Martin Luther King Jr.
 >If you can't fly then run, if you can't run then walk, if you can't walk then crawl, but whatever you do you have to keep moving forward.[#285](https://youtu.be/YbJZnShMQAo?t=12716a)
+
+##### Friedrich A. Hayek
+>Economic control is not merely control of a sector of human life which can be separated from the rest; it is the control of the means for all our ends.[#284](https://youtu.be/gp4U5aH_T6A?t=15252)
