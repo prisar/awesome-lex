@@ -18,3 +18,6 @@ lex fridman reads quotes
 
 ##### Oliver Stone
 >To fail is not tragic. To be human, is.[#286](https://youtu.be/ygAqYC8JOQI?t=6736)
+
+##### Martin Luther King Jr.
+>If you can't fly then run, if you can't run then walk, if you can't walk then crawl, but whatever you do you have to keep moving forward.[#285](https://youtu.be/YbJZnShMQAo?t=12716a)
