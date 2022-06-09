@@ -1,6 +1,9 @@
 # awesome-lex
 lex fridman reads quotes
 
+##### Ray Bradbury
+>We are an impossibility in an impossible universe.[#292](https://youtu.be/KBZP4rLk6bk?t=15190)
+
 ##### Carl Gustav Jung
 >Everything that irritates us about others can lead us to an understanding of ourselves. [#291](https://youtu.be/f0un-l1L8Zw?t=6103)
 
