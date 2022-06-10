@@ -27,3 +27,6 @@ lex fridman reads quotes
 
 ##### Friedrich A. Hayek
 >Economic control is not merely control of a sector of human life which can be separated from the rest; it is the control of the means for all our ends.[#284](https://youtu.be/gp4U5aH_T6A?t=15252)
+
+##### Einstein
+>The important thing is not to stop questioning. Curiosity has its own reason for existing. One cannot help but be in awe when he contemplates the mysteries of eternity, of life, of the marvelous structure of reality. It is enough if one tries merely to comprehend a little of this mystery every day.[#58](https://youtu.be/3qMemn__kK8?t=3475)
