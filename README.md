@@ -1,6 +1,9 @@
 # awesome-lex
 lex fridman reads quotes
 
+##### Karl Marx
+>The philosophers have only interpreted the world, in various ways. The point, however, is to change it.[#295](https://youtu.be/o0Bi-q89j5Y?t=10406)
+
 ##### Ray Bradbury
 >We are an impossibility in an impossible universe.[#292](https://youtu.be/KBZP4rLk6bk?t=15190)
 
